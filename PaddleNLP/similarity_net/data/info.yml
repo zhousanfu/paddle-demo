@@ -1,0 +1,6 @@
+name: SimNet_data
+type: NLP
+author: baidu-nlp
+author_email: nlp@baidu.com
+version: 1.0.0
+description: Baidu's open-source data of SimNet.

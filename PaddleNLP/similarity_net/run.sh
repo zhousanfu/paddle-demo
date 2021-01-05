@@ -61,7 +61,7 @@ evaluate() {
 }
 # run_infer
 infer() {
-	python run_classifier.py \
+	python run_classifier.py \  
 		--task_name ${TASK_NAME} \
 		--use_cuda false \
 		--do_infer True \
